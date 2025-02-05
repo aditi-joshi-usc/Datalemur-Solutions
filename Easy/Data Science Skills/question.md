@@ -1,4 +1,3 @@
-```markdown
 # Finding Candidates for Data Science Job
 
 ## Problem Statement
@@ -46,4 +45,3 @@ The output should list the `candidate_id`s of such candidates, sorted in ascendi
 - **No duplicates in the table:** The assumption ensures that each `candidate_id`-`skill` pair appears only once.
 
 This query efficiently identifies the best-suited candidates for a Data Science job by filtering and grouping based on the required skill set. 🚀
-```
