@@ -40,5 +40,5 @@ To calculate the churn rate, we take the number of churned users divided by the 
 
 **Churn Rate Calculation:**
 \[
-\text{Churn Rate} = \left(\frac{\text{Churned Users}}{\text{Total Users}} \times 100\right) = \left(\frac{2}{3} \times 100\right) = 66.67\%
+{Churn Rate} = {Churned Users}}{Total Users} * 100) = {2}/{3} * 100) = 66.67\%
 \]
