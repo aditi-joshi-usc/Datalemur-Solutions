@@ -44,8 +44,6 @@ Write a query to calculate the percentage of calls that cannot be categorised. R
 
 Out of the total of **5 calls** registered, **1 call** was not categorised (call category is `n/a`).  
 Therefore, the percentage of uncategorised calls is calculated as:
-```
-\[
-\text{Percentage} = \left(\frac{\text{Uncategorised Calls}}{\text{Total Calls}}\right) \times 100 = \left(\frac{1}{5}\right) \times 100 = 20.0\%
-\]
-```
+
+Percentage = (Uncategorised Calls / Total Calls) × 100  
+Percentage = (1 / 5) × 100 = 20.0%
